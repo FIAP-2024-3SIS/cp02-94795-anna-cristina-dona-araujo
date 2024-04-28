@@ -42,7 +42,7 @@ npm install
 
 4. Inicie o servidor de desenvolvimento:
 
-   ```bash
+```bash
 ng serve
  ```
 
@@ -50,7 +50,7 @@ ng serve
 
 ## Imagem do Projeto
 
-![Meu Projeto Angular](https://github.com/FIAP-2024-3SIS/cp02-94795-anna-cristina-dona-araujo/blob/main/my-app/print%20-aplicacao-rodando.png)
+![Meu Projeto Angular](https://github.com/FIAP-2024-3SIS/cp02-94795-anna-cristina-dona-araujo/blob/main/my-app/print%20-aplicacao-rodando.png?raw=true)
 
 ## Contribuindo
 
