@@ -50,7 +50,7 @@ ng serve
 
 ## Imagem do Projeto
 
-![Meu Projeto Angular]()
+![Meu Projeto Angular](https://github.com/FIAP-2024-3SIS/cp02-94795-anna-cristina-dona-araujo/blob/main/my-app/print%20-aplicacao-rodando.png)
 
 ## Contribuindo
 
